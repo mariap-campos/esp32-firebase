@@ -64,7 +64,7 @@ class App extends Component {
 
 
           <View style={estilos.principal2}>
-            <Text style={estilos.texto}>Aperte o botão abaixo para acender ou desligar o LED</Text>
+            <Text style={estilos.texto}>Aperte o botão abaixo para ligar ou desligar o LED</Text>
           </View>
 
 
